@@ -6,4 +6,4 @@ An example motion capture file in BVH format is included in the repo for testing
 
 #### Program execution
 
-python bvhparser.py path/to/file
+> python bvhparser.py path/to/file
